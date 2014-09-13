@@ -1,0 +1,10 @@
+{
+	"current" : "default",
+	"projects" : {
+		"default": {
+			"code":"F:/Workspace/Python/CodeHelper/code.json",
+			"str":"F:/Workspace/Python/CodeHelper/str.json"
+		}
+	},
+	"prefix" : "CODE"
+}

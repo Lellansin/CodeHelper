@@ -1,0 +1,22 @@
+[
+	/*{
+		"keys": ["f5"],
+		"command": "code_helper",
+		"args": { "from": "code_string", "to":"code_num" }
+	},
+	{
+		"keys": ["f6"],
+		"command": "code_helper",
+		"args": { "from": "code_num", "to":"code_string" }
+	},
+	{
+		"keys": ["f7"],
+		"command": "code_helper",
+		"args": { "from": "code_msg", "to":"code_string" }
+	},
+	{
+		"keys": ["f8"],
+		"command": "code_helper",
+		"args": { "from": "code_string", "to":"code_msg" }
+	}*/
+]

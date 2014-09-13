@@ -1,0 +1,10 @@
+# [CodeHelper](https://github.com/Lellansin/CodeHelper) support for Sublime Text 3
+
+
+Thanks for installing CodeHelper for Sublime Text.
+
+To use this plugin, please ensure that you have config the CodeHelper.sublime-settings.
+
+To avoid shortcut conflict, you should view plugin default key binding add the functino you want to key binding for user.
+
+If you have any question or suggestion, you can go to github for more.
