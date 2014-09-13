@@ -1,0 +1,21 @@
+{
+	"OK": "handle success!",
+	"FAILED": "handle Failed!",
+
+	"chat" : {
+		"TO_LONG_MSG": "Your message is to long.",
+		"NO_ABUSE_WORD": "You cannot abuse others"
+	},
+
+	"user" : {
+		"REGISTER": {
+			"DUPLITE_NAME": "This name has been registered",
+			"LENGTH_ERROR": "The length should between 6-16 character",
+			"NO_SPECIAL_CHAR": "Don't use special character like 'space' etc. "
+		},
+		"LOGIN": {
+			"WRONG_PASSWORD": "Your password is wrong",
+			"USER_NOT_FOUND": "Sorry, User not found!"
+		}
+	}
+}

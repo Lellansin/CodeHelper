@@ -1,0 +1,21 @@
+{
+	"OK": 200,
+	"FAILED": 500,
+
+	"chat" : {
+		"TO_LONG_MSG": 1001,
+		"NO_ABUSE_WORD": 1002
+	},
+
+	"user" : {
+		"REGISTER": {
+			"DUPLITE_NAME": 2001,
+			"LENGTH_ERROR": 2002,
+			"NO_SPECIAL_CHAR": 2003
+		},
+		"LOGIN": {
+			"WRONG_PASSWORD":2101,
+			"USER_NOT_FOUND":2102
+		}
+	}
+}
